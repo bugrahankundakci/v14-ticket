@@ -1,2 +1,10 @@
-# v14-ticket
-V14 Yazılmış menülü ticket botu.
+# Menülü Ticket Botu.
+
+> Discord sunucuları için ticket botu.
+
+- Ücretsiz!
+- Özelleştirilebilir Menü!
+- Gelişmiş Log!
+- Modal Sistemi!
+
+# Botta hatalar olabilir. Fixleyip kullanabilirsiniz.
