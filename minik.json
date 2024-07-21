@@ -1,0 +1,51 @@
+{
+    "botSettings": {
+        "token": "BOTUN TOKENİNİ BURAYA GİR",
+        "ServerID": "BOTU KULLANDIĞIN SUNUCUNUN ID'SINI BURAYA GIR",
+        "clientID": "BOTUN KENDISINI / CLIENT ID'YI BURAYA GIR",
+        "durum": "dnd-online-invisible-idle",
+        "oynuyor": "botun oynuyor olarak ne göstermesini istiyorsn buraya onu gir"
+    },
+
+
+    
+    "ticket": {
+        "kategori": {
+            "destekbug": "botun ticketleri hangi kategoride açmasını istiyorsan buraya o kategorinin id'sini gir",
+            "icproblemler": "botun ticketleri hangi kategoride açmasını istiyorsan buraya o kategorinin id'sini gir",
+            "baskaproblemler": "botun ticketleri hangi kategoride açmasını istiyorsan buraya o kategorinin id'sini gir",
+            "otherproblemler": "botun ticketleri hangi kategoride açmasını istiyorsan buraya o kategorinin id'sini gir"
+        },
+
+        "yetkili": {
+            "destekbug": "ticketleri hangi yetkili görmesini istiyorsan onun rol id'sini buraya gir",
+            "icproblemler": "ticketleri hangi yetkili görmesini istiyorsan onun rol id'sini buraya gir",
+            "baskaproblemler": "ticketleri hangi yetkili görmesini istiyorsan onun rol id'sini buraya gir",
+            "otherproblemler": "ticketleri hangi yetkili görmesini istiyorsan onun rol id'sini buraya gir",
+            "yonetim": "ticketleri hangi yetkili görmesini istiyorsan onun rol id'sini buraya gir",
+            "ticket": "düz ticket yetkilisi rol id'sini giriceksin"
+        },
+        "transcriptsChannelId": "logları hangi kanala atacak?",
+
+        "menuayarlari": {
+            "mesaj": " 'Ticket Açmak İçin Aşağıdan Kategori Seçiniz. \n\n```Şikayetleriniz,\nÖneri/İstekleriniz,\nYaşadığınız sorunlar hakkında buradan yardım alabilirsin!``` \n\n> __Gereksiz Yere Ticket Açanlara İşlem Uygulanacaktır.__' ",
+            "menuplaceholder": " Ticket Açmak İçin Kategori Seçiniz.",
+            "birseceneklabel": "Destek, Bug & Teknik Sorunlar",
+            "birsecenekemoji": "1264482776208506971",
+            "birsecenekaciklama": "Destek için ticket oluştur!",
+            "ikiseceneklabel": "Oyun içi sorunlar, Rol hataları",
+            "ikisecenekemoji": "1264482774434320455",
+            "ikisecenekaciklama": "IC / OOC Sorunlar için ticket oluştur!",
+            "ucseceneklabel": "Başka Bir Sorun Belirt.",
+            "ucsecenekemoji": "1264482777739300874",
+            "ucsecenekaciklama": "Başka bir sorununu kendini ifade ederek belirt.",
+            "dortseceneklabel": "Diğer Kategoriler",
+            "dortsecenekemoji": "1264482782994890763",
+            "dortsecenekaciklama": "Deneme",
+            "icmesaj": " ```> Eğer video kaydınız yoksa bir görsele veya sizin anlatımınıza göre işlem yapılamaz. \n > **Video kayıtı zorunludur!** \n > **Sorununuzu direkt belirtiniz.** \n > Yetkililerimiz sizinle kısa süre içerisinde ilgilenicektir.``` "
+        }
+    }
+
+
+
+}
