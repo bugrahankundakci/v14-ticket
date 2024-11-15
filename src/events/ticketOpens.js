@@ -14,14 +14,14 @@ module.exports = {
                 .addOptions([
                     {
                         label: 'Kayıt et ve kapat.',
-                        emoji: '1264482870249000981',
+              //          emoji: '1264482870249000981',
                         description: 'Deneme',
                         value: 'kaydetkapat',
                     },
                     {
                         label: 'Sorunumu ben çözdüm.',
                         description: 'Deneme',
-                        emoji: '1264482781069574185',
+                 //       emoji: '1264482781069574185',
                         value: 'bencozdum',
                     },
                 ]);
@@ -239,14 +239,14 @@ module.exports = {
                 .addOptions([
                     {
                         label: 'Kayıt et ve kapat.',
-                        emoji: '1264482870249000981',
+                //        emoji: '1264482870249000981',
                         description: 'Deneme',
                         value: 'kaydetkapat',
                     },
                     {
                         label: 'Sorunumu ben çözdüm.',
                         description: 'Deneme',
-                        emoji: '1264482781069574185',
+                    //    emoji: '1264482781069574185',
                         value: 'bencozdum',
                     },
                 ]);
