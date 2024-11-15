@@ -29,7 +29,7 @@ module.exports = {
                     const minikinbutonu = new ButtonBuilder()
                         .setCustomId('ticketisil')
                         .setLabel('Ticketi Sil')
-                        .setEmoji('1264482781069574185')
+                    //    .setEmoji('1264482781069574185')
                         .setStyle(ButtonStyle.Danger);
 
                     const militaninactionu = new ActionRowBuilder()
@@ -63,7 +63,7 @@ module.exports = {
                     const minikinbutonuu = new ButtonBuilder()
                         .setCustomId('ticketisil')
                         .setLabel('Ticketi Sil')
-                        .setEmoji('1264482781069574185')
+                    //    .setEmoji('1264482781069574185')
                         .setStyle(ButtonStyle.Danger);
 
                     const militaninactionuu = new ActionRowBuilder()
