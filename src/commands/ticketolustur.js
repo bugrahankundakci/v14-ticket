@@ -30,32 +30,32 @@ module.exports = {
                     .addOptions([
                         {
                             label: minik.ticket.menuayarlari.birseceneklabel,
-                            emoji: minik.ticket.menuayarlari.birsecenekemoji,
+                       //     emoji: minik.ticket.menuayarlari.birsecenekemoji,
                             description: minik.ticket.menuayarlari.birsecenekaciklama,
                             value: 'destekbug',
                         },
                         {
                             label: minik.ticket.menuayarlari.ikiseceneklabel,
-                            emoji: minik.ticket.menuayarlari.ikisecenekemoji,
+                       //     emoji: minik.ticket.menuayarlari.ikisecenekemoji,
                             description: minik.ticket.menuayarlari.ikisecenekaciklama,
                             value: 'icproblemler',
                         },
                         {
                             label: minik.ticket.menuayarlari.dortseceneklabel,
-                            emoji: minik.ticket.menuayarlari.dortsecenekemoji,
+                       //     emoji: minik.ticket.menuayarlari.dortsecenekemoji,
                             description: minik.ticket.menuayarlari.dortsecenekaciklama,
                             value: 'otherproblems',
                         },
                         {
                             label: minik.ticket.menuayarlari.ucseceneklabel,
-                            emoji: minik.ticket.menuayarlari.ucsecenekemoji,
+                        //    emoji: minik.ticket.menuayarlari.ucsecenekemoji,
                             description: minik.ticket.menuayarlari.ucsecenekaciklama,
                             value: 'baskaproblems',
                         },
                         {
                             label: 'Seçenek Sıfırla',
                             description: 'Menüdeki seçeneğinizi sıfırlarsınız.',
-                            emoji: '1264482771049386014',
+                       //     emoji: '1264482771049386014',
                             value: 'sifirla',
                         },
                     ])
