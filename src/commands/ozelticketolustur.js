@@ -80,26 +80,26 @@ module.exports = {
                         .addOptions([
                             {
                                 label: militaninbirincisecenegii,
-                                emoji: minik.ticket.menuayarlari.birsecenekemoji,
+                             //   emoji: minik.ticket.menuayarlari.birsecenekemoji,
                             //    description: minik.ticket.menuayarlari.birsecenekaciklama,
                                 value: 'ozelmenu',
                             },
                             {
                                 label: militaninikincisecenegii,
-                                emoji: minik.ticket.menuayarlari.ikisecenekemoji,
+                            //    emoji: minik.ticket.menuayarlari.ikisecenekemoji,
                              //   description: minik.ticket.menuayarlari.ikisecenekaciklama,
                                 value: 'destekbug',
                             },
                             {
                                 label: militaninucuncusecenegii,
-                                emoji: minik.ticket.menuayarlari.dortsecenekemoji,
+                             //   emoji: minik.ticket.menuayarlari.dortsecenekemoji,
                            //     description: minik.ticket.menuayarlari.dortsecenekaciklama,
                                 value: 'otherproblems',
                             },
                             {
                                 label: 'Seçenek Sıfırla',
                                 description: 'Menüdeki seçeneğinizi sıfırlarsınız.',
-                                emoji: '1264482771049386014',
+                            //    emoji: '1264482771049386014',
                                 value: 'sifirla',
                             },
                         ])
